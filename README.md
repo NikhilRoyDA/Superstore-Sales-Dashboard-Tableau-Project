@@ -44,9 +44,11 @@ In today's fast-paced business world, data isn’t just a resource—it’s a **
 🔹 **User-friendly** design for easy exploration  
 🔹 **Business-focused insights** to drive data-backed decisions  
 
+---
+
 ## 📈 Visuals & Results : [Insights](https://github.com/NikhilRoyDA/Superstore-Sales-Dashboard-Tableau-Project/tree/main/Insights)
 ![3](https://github.com/user-attachments/assets/e24efa88-826b-4028-a63d-a2a3a9a2617b)
-
+- **Live Dashboard**: [Click Here]([https://www.datascienceportfol.io/nikhilroy744](https://public.tableau.com/app/profile/nikhil.roy6700/viz/Superstore_17424648477720/SuperstoreDashboard)) 
 
 ---
 
