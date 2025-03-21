@@ -61,4 +61,9 @@ In today's fast-paced business world, data isn’t just a resource—it’s a **
 
 ---
 
-## 📁 **Repository Structure**  
+## 🔗 Connect & Explore  
+I’m **Nikhil Roy**, a passionate Data Analyst, sharing real-world SQL projects.
+- **Portfolio**: [DataSciencePortfol.io](https://www.datascienceportfol.io/nikhilroy744)  
+- **LinkedIn**: [Nikhil Kumar Roy](https://www.linkedin.com/in/nikhil-kumar-roy/) 
+
+---
